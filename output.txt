@@ -1,0 +1,5 @@
+|Filename             | Height| Width|
+--------------------------------------
+|fostering-kittens.jpg|    528|   800|
+|kitten1.jfif         |   1000|  1000|
+|kitten2.jpg          |   3072|  4608|
