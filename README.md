@@ -1,7 +1,7 @@
 Instructions for use:
 
 * Place all the images you want to analyze in a folder called "images" (all lowercase) into the parent folder (the folder that contains "img.exe")
-	-I have named this folder "image_height"
+	-I have named this folder "image_pixels"
 
 * Double click "img.exe"
 
