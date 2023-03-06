@@ -1,5 +1,6 @@
 import os
 from PIL import Image
+Image.MAX_IMAGE_PIXELS = None
 
 cwd = (f'{os.getcwd()}/images')
 file_to_save = os.path.join('output.txt')
